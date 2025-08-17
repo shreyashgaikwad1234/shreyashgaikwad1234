@@ -34,4 +34,4 @@ Created a 10-year company franchise sales performance dashboard.<br>
 
 3. Franchise & Recruitment Business Forecasting Dashboard - Power BI <br>
 Built interactive dashboards to analyze franchise and recruitment performance. <br>
-Integrated TAM, SAM, and SOM analysis to assess market potential. <br>
+Integrated TAM, SAM, and SOM analysis to assess market potential. <br> !>
